@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shreya paul</h1>
-<h3 align="center">An aspiring Data Scientist, a machine learning enthusiast from India</h3>
+<h1 align="center">Hi 👋, I'm Shreya Paul</h1>
+<h3 align="center">An aspiring Data Scientist, a machine learning enthusiast from India.</h3>
 
 - 👯 I’m looking to collaborate on **ML projects**
 
